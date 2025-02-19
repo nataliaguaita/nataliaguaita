@@ -7,8 +7,6 @@ Sou arquiteta e urbanista especializada em projetos comerciais, com foco no seto
 - 🎨 UI/UX Design | Figma | Photoshop 
 - ⚡ Em aprendizado: Java
 
- Estou sempre aberta a conexões e novos aprendizados. Vamos construir algo incrível juntos! 🚀
-
 ## 🔗 GitHub Stats:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nataliaguaita&show_icons=true&theme=graywhite)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nataliaguaita&hide=javascript,html&theme=graywhite)](https://github.com/nataliaguaita/github-readme-stats)
