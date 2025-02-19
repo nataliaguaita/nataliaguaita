@@ -1,16 +1,14 @@
-## Hi there 👋
+# ✨ Sobre mim: 
 
-<!--
-**nataliaguaita/nataliaguaita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou arquiteta e urbanista especializada em projetos comerciais, com foco no setor alimentício. Sempre fui apaixonada por tecnologia e, em 2024, decidi mergulhar ainda mais nesse universo, iniciando minha graduação em Web Design. Atualmente, estou me aprofundando no desenvolvimento de interfaces e programação, trilhando minha transição de carreira para a área de tecnologia.
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias & Ferramentas:  
+- 🖥️ HTML | CSS | JavaScript  
+- 🎨 UI/UX Design | Figma | Photoshop 
+- ⚡ Em aprendizado: Java
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ Estou sempre aberta a conexões e novos aprendizados. Vamos construir algo incrível juntos! 🚀
+
+## 🔗 GitHub Stats:
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=nataliaguaita&show_icons=true&theme=graywhite)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nataliaguaita&hide=javascript,html&theme=graywhite)](https://github.com/nataliaguaita/github-readme-stats)
